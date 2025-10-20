@@ -25,7 +25,6 @@
 - Koristite **efekt** za određivanje poruke koja se prikazuje uz svaku boju: crveno → "Stani", žuto → "Priprema", zeleno → "Kreni!"
 - Boja prikaza (npr. krug ili kvadrat) automatski se mijenja ovisno o trenutnom signalu.
 - Naslov (npr. "Semafor na križanju") se šalje kroz **props**.
-- Po pokretanju komponente (u `onMount`) ispišite početno stanje u konzolu.
 
 # Zadatak 4: Kalkulator zbroja i prosjeka
 
