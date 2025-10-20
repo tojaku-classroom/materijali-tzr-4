@@ -6,22 +6,15 @@
 - Stil komponente se mijenja ovisno o signalu teme (inline stil ili klasa).
 - Prikažite naslov aplikacije kroz **props**.
 - Koristite jednu od metoda životnog ciklusa (npr. `onMount`, `onCleanup`) za konzolnu poruku ili inicijalizaciju.
-- Sve podatke držite u memoriji aplikacije – nema spremanja izvan trenutnog prikaza.
-
----
 
 # Zadatak 2: Todo lista s filtrima
 
 - Zadaci se čuvaju u **signalu** (niz objekata).
 - **Signal** filtera ("svi", "završeni", "nezavršeni").
 - Korištenje **memo** za filtriranu listu zadataka.
-- Dodavanje zadatka automatski fokusira input polje (`onMount`).
 - Svaki todo zadatak je zasebna komponenta kojoj tekst/status dolazi kroz **props**.
 - **Efekt** koristi za prikaz upozorenja kada broj zadataka postane veći od 5.
 - Različiti stil za završene zadatke (npr. tekst precrtan, siv).
-- Sve ostaje u prikazu, bez vanjskog spremanja.
-
----
 
 # Zadatak 3: Prikaz stanja semafora
 
@@ -31,8 +24,6 @@
 - Stil semafora se mijenja prema vrijednosti signala, koristeći inline-stil ili klasu.
 - Tekstualni opis ide kroz **props**.
 - Prilikom montaže ispišite početno stanje u konzoli (`onMount`).
-
----
 
 # Zadatak 4: Kalkulator zbroja i prosjeka
 
