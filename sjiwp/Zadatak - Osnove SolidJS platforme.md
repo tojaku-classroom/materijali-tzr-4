@@ -18,12 +18,14 @@
 
 # Zadatak 3: Prikaz stanja semafora
 
-- **Signal** trenutnog stanja (crveno, žuto, zeleno).
-- **Efekt** automatski mijenja signal svake 3 sekunde (`setInterval` + `onCleanup`).
-- Trenutni signal boje i mijenjanje osvježava preko **memo** za poruku (“Stani”, “Priprema”, “Kreni!”).
-- Stil semafora se mijenja prema vrijednosti signala, koristeći inline-stil ili klasu.
-- Tekstualni opis ide kroz **props**.
-- Prilikom montaže ispišite početno stanje u konzoli (`onMount`).
+- Napravite komponentu koja prikazuje rad semafora (crveno, žuto, zeleno).
+- Držite trenutno stanje (boju) semafora u **signalu**.
+- U funkciji `onMount` postavite promjenu boje svakih 3 sekunde pomoću `setInterval`.
+- U `onCleanup` zaustavite interval kada se komponenta ukloni.
+- Koristite **efekt** za određivanje poruke koja se prikazuje uz svaku boju: crveno → "Stani", žuto → "Priprema", zeleno → "Kreni!"
+- Boja prikaza (npr. krug ili kvadrat) automatski se mijenja ovisno o trenutnom signalu.
+- Naslov (npr. "Semafor na križanju") se šalje kroz **props**.
+- Po pokretanju komponente (u `onMount`) ispišite početno stanje u konzolu.
 
 # Zadatak 4: Kalkulator zbroja i prosjeka
 
