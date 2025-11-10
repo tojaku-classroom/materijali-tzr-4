@@ -8,3 +8,6 @@ Slijed vježbi na TryHackMe za učenike.
 3. Cyber Kill Chain: [https://tryhackme.com/room/cyberkillchain](https://tryhackme.com/room/cyberkillchain)
 4. Linux Logging for SOC: [https://tryhackme.com/room/linuxloggingforsoc](https://tryhackme.com/room/linuxloggingforsoc)
 5. Detecting Web attacks: [https://tryhackme.com/room/detectingwebattacks](https://tryhackme.com/room/detectingwebattacks)
+---
+6. Cyber Threat Intelligence Intro: [https://tryhackme.com/room/cyberthreatintel](https://tryhackme.com/room/cyberthreatintel)
+7. CTI Tools: [https://tryhackme.com/room/threatinteltools](https://tryhackme.com/room/threatinteltools)
