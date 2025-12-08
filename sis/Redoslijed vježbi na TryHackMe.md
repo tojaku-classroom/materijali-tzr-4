@@ -12,3 +12,4 @@ Slijed vježbi na TryHackMe za učenike.
 6. Cyber Threat Intelligence Intro: [https://tryhackme.com/room/cyberthreatintel](https://tryhackme.com/room/cyberthreatintel)
 7. CTI Tools: [https://tryhackme.com/room/threatinteltools](https://tryhackme.com/room/threatinteltools)
 8. Incident Response Process: [https://tryhackme.com/room/incidentresponseprocess](https://tryhackme.com/room/incidentresponseprocess)
+9. Governance & Regulation: [https://tryhackme.com/room/cybergovernanceregulation](https://tryhackme.com/room/cybergovernanceregulation)
