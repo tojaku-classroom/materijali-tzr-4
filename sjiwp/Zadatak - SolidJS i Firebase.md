@@ -54,13 +54,11 @@ Klasificiraj događaje po razini težine kako bi se korisnici lakše orijentiral
 - Na Home stranici dodaj filtriranje javnih događaja po razini težine (gumbi ili dropdown)
 - Prikaži `difficulty` značku na karticama događaja s razičitim bojama (npr. zeleno=Beginner, žuto=Intermediate, crveno=Advanced)
 - U EventManagement-u omogući filtriranje svojih događaja po težini
-- **Bonus**: Prikaži preporučene događaje na osnovu razine težine prethodnih događaja na koje je korisnik pristupio
 
 ### Tehnički detalji
 - **Firestore polje**: `difficulty: string`
 - **Firestore upit**: Koristi `where("difficulty", "==", selectedDifficulty)`
 - **Komponente za izmjenu**: Home.jsx, EventManagement.jsx
-- **Bonus**: Trebaš čitati podatke o prethodnim događajima korisnika
 
 ### Temeljne vještine
 - Firestore upiti s filteriranjem
