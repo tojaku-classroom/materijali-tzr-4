@@ -14,3 +14,4 @@ Slijed vježbi na TryHackMe za učenike.
 8. Incident Response Process: [https://tryhackme.com/room/incidentresponseprocess](https://tryhackme.com/room/incidentresponseprocess)
 9. Governance & Regulation: [https://tryhackme.com/room/cybergovernanceregulation](https://tryhackme.com/room/cybergovernanceregulation)
 10. Social Engineering (Phishing): [https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0) AND [https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)
+11. NMAP Host Discovery: [https://tryhackme.com/room/nmap01](https://tryhackme.com/room/nmap01)
